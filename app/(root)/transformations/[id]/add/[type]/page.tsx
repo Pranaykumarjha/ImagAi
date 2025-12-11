@@ -3,7 +3,7 @@ import React from 'react'
 const AddTransformationtypePage = () => {
   return (
     <div>
-      AddTransformationtypePage here...
+      {/* AddTransformationtypePage here... */}
     </div>
   )
 }
